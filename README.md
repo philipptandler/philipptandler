@@ -26,7 +26,7 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 
 ## 🛠 Tools & Languages
 
-`R`, `Python`, `terra`, `tidyverse`, `devtools`, `raster`, `ggplot2`, `numpy`, `xarray`, `QGIS`, `ArcGIS`, `bash`, `HPC/SLURM`, `git`
+`R`, `Python`, `terra`, `QGIS`, `ArcGIS`, `bash`, `HPC/SLURM`, `git`
 
 ---
 
@@ -35,9 +35,9 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 ### 🌱 Arctic Vegetation Dynamics
 
 > A dynamic Bayesian modeling pipeline to analyze shifts in Arctic plant community composition using species co-occurrence and environmental drivers.  
-> - Multivariate time-series modeling using the `gjam` package  
-> - Focused on species turnover, uncertainty, and community response over time  
-> - Scripted in R for reproducibility and interpretability
+> - Multivariate dynamical model fitting using the `gjam` package  
+> - Focused on ecosystem stability (resistance and resilience)
+> - Developed a generalized framework to fit a dynamical model to a timeseries spatial raster data
 
 ### 🌾 Wetland Classification and Modeling
 
