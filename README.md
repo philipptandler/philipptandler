@@ -8,11 +8,11 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 
 ## 🌿 What I do
 
-- 🛰 **Remote sensing** and spatial data processing (Sentinel, Landsat, terrain models)
-- 🗺 **GIS analysis** (raster, vector, projections, map algebra)
-- 🧠 **Data pipelines** in `R`, `Python`, and `Bash`, especially for research and reproducible science
-- 📊 **Statistical analysis** and visualization for ecological and environmental data
-- ❄️ Experience with **HPC clusters**, climate and glacial datasets, and field-linked environmental models
+- **Remote sensing** and spatial data processing (Sentinel, Landsat, terrain models)
+- **GIS analysis** (raster, vector, projections, map algebra)
+- **Data pipelines** in `R`, `Python`, and `Bash`, especially for research and reproducible science
+- **Statistical analysis** and visualization for ecological and environmental data
+- Experience with **HPC clusters**, climate and glacial datasets, and field-linked environmental models
 
 ---
 
