@@ -12,13 +12,14 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 - **GIS analysis** (raster, vector, projections, map algebra)
 - **Data pipelines** in `R`, `Python`, and `Bash`, especially for research and reproducible science
 - **Statistical analysis** and visualization for ecological and environmental data
+- **Applied machine learning** to classify and quantify ecological systems
 - Experience with **HPC clusters**, climate and glacial datasets, and field-linked environmental models
 
 ---
 
 ## 🎓 Academic background
 
-- **MSc in Environmental Sciences** – major: *Ecology and Evolution*, minor: *Physical Glaciology*
+- **MSc in Environmental Sciences** – focus on *Ecology, GIS, spatial data analysis, computational modelling*
 - **BSc in Environmental Sciences** – focus on *Atmospheric Sciences*
 - Thesis work involving spatial data, ecological modeling, and applied programming
 
@@ -26,7 +27,7 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 
 ## 🛠 Tools & Languages
 
-`R`, `Python`, `terra`, `QGIS`, `ArcGIS`, `bash`, `HPC/SLURM`, `git`
+`R`, `Python`, `QGIS`, `ArcGIS`, `bash`, `HPC/SLURM`, `git`
 
 ---
 
@@ -39,10 +40,10 @@ My academic foundation is in **ecology, atmospheric science, and glaciology**, a
 > - Focused on ecosystem stability (resistance and resilience)
 > - Developed a generalized framework to fit a dynamical model to a timeseries spatial raster data
 
-### 🌾 Wetland Classification and Modeling
+### 🌾 Wetland ML based Classification and Modeling
 
 > Developed a spatial workflow to classify wetland types using multi-season Sentinel-2 imagery and terrain indices.  
-> - Applied Random Forest classification with spatial cross-validation  
+> - Applied Random Forest and Kernel Ridge classification with spatial cross-validation  
 > - Implemented in R using `terra`, `mlr3`, and custom preprocessing  
 > - Built for ecological monitoring and decision-support in a restoration context
 
